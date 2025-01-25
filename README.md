@@ -5,8 +5,11 @@ Short and handy bioinformatics scripts
 script name: extract_topNfasta.py
 
 Usage:
+
 ```python extract_top_n.py input.fasta output.fasta N```
+
 where N can be any number of your choice
 
 For help
+
 ```python extract_top_n.py -h```
