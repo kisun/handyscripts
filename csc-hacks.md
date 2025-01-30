@@ -1,6 +1,6 @@
-## some useful CSC hacks
+# some useful CSC hacks
 
-# data sharing with collaborators
+## data sharing with collaborators
 
 module load allas
 > allas-conf --mode S3
